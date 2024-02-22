@@ -5,3 +5,5 @@ Particularly, I implemented the following classifiers: Perceptron, Logistic Regr
 The performance results are loaded from the JSON file provided below, and a link to access the notebook containing the implementation is also provided.
 
 In the notebook, simply run the "MODEL COMPARISON" section to see the results and a brief explanation.
+
+*Notebbok link*: https://colab.research.google.com/drive/1HkyIgRiaWoQbF8WBe7YPTnltmRFcjyVc?usp=sharing
