@@ -6,4 +6,4 @@ The performance results are loaded from the JSON file provided below, and a link
 
 In the notebook, simply run the "MODEL COMPARISON" section to see the results and a brief explanation.
 
-*Notebbok link*: https://colab.research.google.com/drive/1HkyIgRiaWoQbF8WBe7YPTnltmRFcjyVc?usp=sharing
+*Notebook link*: https://colab.research.google.com/drive/1HkyIgRiaWoQbF8WBe7YPTnltmRFcjyVc?usp=sharing
